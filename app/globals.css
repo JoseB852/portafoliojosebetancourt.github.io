@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+
+html,
+body {
+    color: #ffffff;
+    background-color: #050505;
+}
+
+
+main {
+
+    height: 100vh;
+    height: 100dvh;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+    background-color: #f5741c;
+}
