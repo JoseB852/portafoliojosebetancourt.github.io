@@ -27,10 +27,6 @@ const ServicesPage = () => {
           <p className="mb-3 text-xl text-left">
             Ofrezco servicios de desarrollo web frontend especializados en la creación de sitios web y aplicaciones atractivas y funcionales. Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.
           </p>
-
-          <button className="px-2 py-1 rounded-lg bg-[#FF7F00] hover:bg-[#FF7F00]/80 text-sm transition-colors duration-200 cursor-pointer">
-            Contacta conmigo
-          </button>
         </div>
 
         {/* Columna derecha: slider */}
